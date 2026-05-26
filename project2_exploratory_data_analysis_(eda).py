@@ -43,7 +43,7 @@ df['social_interaction_level'] = le.fit_transform(df['social_interaction_level']
 df_stats = df.describe()
 display(df_stats)
 
-"""## Understanding Trends and Outliers
+"""## Trends and Outliers
 
 To find patterns (trends) and unusual data points (outliers) in our data, we used a few visual tools:
 

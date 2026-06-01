@@ -13,4 +13,4 @@ Calculated basic statistics like mode, median, count and standard dev. Identifie
 ## Project 3: SQL Data Analysis
 Using SQL queries to extract insights from dataset.
 Write SQL queries like SELECT, WHERE, ORDER BY, GROUP BY and perform basic aggregations like COUNT, SUM and AVG.
-### SQL fundamentals, querying data, filtering and grouping
+### Skills Learnt : SQL fundamentals, querying data, filtering and grouping
